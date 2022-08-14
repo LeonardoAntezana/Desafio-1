@@ -93,4 +93,7 @@ body {
       body .card .card__content .card__content__p {
         font-size: 1.4rem; }
       body .card .card__content .conteiner__span .span__bottom__right {
-        font-size: 1.3rem; } }
+        font-size: 1.3rem; }
+      body .card .card__content .conteiner__buy:hover {
+        background-color: #2b5e4c;
+        cursor: pointer; } }
